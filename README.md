@@ -9,6 +9,9 @@ This project processes a large-scale real estate dataset containing **2.2 millio
 - **Features**: 10-11 columns (depending on version)
 - **Data source**: Realtor.com property listings
 
+## Data URL
+https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset
+
 ## 🎯 Data Cleaning Steps
 
 ### 1. Initial Filtering
